@@ -1,5 +1,4 @@
 import requests
-import pytest
 
 def get_meaning(word):
     """
