@@ -1,4 +1,7 @@
 csv
+json
+openpyxl
+os
 requests
 sqlite3
 tk
